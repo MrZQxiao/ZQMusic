@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>image</key>
+		<string>李克勤.jpg</string>
+		<key>lrc</key>
+		<string>月半小夜曲.lrc</string>
+		<key>mp3</key>
+		<string>李克勤 - 月半小夜曲.mp3</string>
+		<key>name</key>
+		<string>李克勤 - 月半小夜曲</string>
+		<key>singer</key>
+		<string>李克勤</string>
+		<key>zhuanji</key>
+		<string>环球真经典系列之李克勤</string>
+		<key>type</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>mp3</key>
+		<string>张译 - 稳稳的幸福.mp3</string>
+		<key>lrc</key>
+		<string>稳稳的幸福.lrc</string>
+		<key>name</key>
+		<string>稳稳的幸福</string>
+		<key>singer</key>
+		<string>张译</string>
+		<key>zhuanji</key>
+		<string>电视剧《辣妈正传》主题曲</string>
+		<key>image</key>
+		<string>lamazhengzhuan.jpg</string>
+		<key>type</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>xpg.jpg</string>
+		<key>lrc</key>
+		<string>小苹果.lrc</string>
+		<key>mp3</key>
+		<string>小苹果.mp3</string>
+		<key>name</key>
+		<string>小苹果</string>
+		<key>singer</key>
+		<string>筷子兄弟</string>
+		<key>zhuanji</key>
+		<string>老男孩之猛龙过江 电影原声带</string>
+		<key>type</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>paomo.jpg</string>
+		<key>lrc</key>
+		<string>泡沫.lrc</string>
+		<key>mp3</key>
+		<string>G.E.M. 邓紫棋 - 泡沫.mp3</string>
+		<key>name</key>
+		<string>泡沫</string>
+		<key>singer</key>
+		<string>邓紫棋</string>
+		<key>zhuanji</key>
+		<string>我是歌手</string>
+		<key>type</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>jason.jpg</string>
+		<key>lrc</key>
+		<string>I&apos;m yours.lrc</string>
+		<key>mp3</key>
+		<string>Jason Mraz - I&apos;m Yours.mp3</string>
+		<key>name</key>
+		<string>I&apos;m Yours</string>
+		<key>singer</key>
+		<string>Jason maraz</string>
+		<key>zhuanji</key>
+		<string>unknown</string>
+		<key>type</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>st.jpg</string>
+		<key>lrc</key>
+		<string>The salt water room.lrc</string>
+		<key>mp3</key>
+		<string>Owl City - The Saltwater Room.mp3</string>
+		<key>name</key>
+		<string>The Saltwater Room</string>
+		<key>singer</key>
+		<string>owl city</string>
+		<key>zhuanji</key>
+		<string>unknown</string>
+		<key>type</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>bb_icon.jpg</string>
+		<key>lrc</key>
+		<string>12309111.lrc</string>
+		<key>mp3</key>
+		<string>12309111.mp3</string>
+		<key>name</key>
+		<string>I Want It That Way</string>
+		<key>singer</key>
+		<string>Backstreet Boys</string>
+		<key>zhuanji</key>
+		<string>unknown</string>
+		<key>type</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>wf_icon.jpg</string>
+		<key>lrc</key>
+		<string>10405520.lrc</string>
+		<key>mp3</key>
+		<string>10405520.mp3</string>
+		<key>name</key>
+		<string>传奇</string>
+		<key>singer</key>
+		<string>王菲</string>
+		<key>zhuanji</key>
+		<string>unknown</string>
+		<key>type</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>jay_icon.png</string>
+		<key>lrc</key>
+		<string>10736444.lrc</string>
+		<key>mp3</key>
+		<string>10736444.mp3</string>
+		<key>name</key>
+		<string>简单爱</string>
+		<key>singer</key>
+		<string>周杰伦</string>
+		<key>zhuanji</key>
+		<string>unknown</string>
+		<key>type</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>nanquan_icon.jpg</string>
+		<key>lrc</key>
+		<string>255319.lrc</string>
+		<key>mp3</key>
+		<string>255319.mp3</string>
+		<key>name</key>
+		<string>瓦解</string>
+		<key>singer</key>
+		<string>南拳妈妈</string>
+		<key>zhuanji</key>
+		<string>unknown</string>
+		<key>type</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>zxy_icon.jpg</string>
+		<key>lrc</key>
+		<string>235319.lrc</string>
+		<key>mp3</key>
+		<string>235319.mp3</string>
+		<key>name</key>
+		<string>心碎了无痕</string>
+		<key>singer</key>
+		<string>张学友</string>
+		<key>zhuanji</key>
+		<string>unknown</string>
+		<key>type</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>jj_icon.png</string>
+		<key>lrc</key>
+		<string>309769.lrc</string>
+		<key>mp3</key>
+		<string>309769.mp3</string>
+		<key>name</key>
+		<string>一千年以后</string>
+		<key>singer</key>
+		<string>林俊杰</string>
+		<key>zhuanji</key>
+		<string>unknown</string>
+		<key>type</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>eason_icon.jpg</string>
+		<key>lrc</key>
+		<string>339744.lrc</string>
+		<key>mp3</key>
+		<string>339744.mp3</string>
+		<key>name</key>
+		<string>最佳损友</string>
+		<key>singer</key>
+		<string>陈奕迅</string>
+		<key>zhuanji</key>
+		<string>unknown</string>
+		<key>type</key>
+		<integer>2</integer>
+	</dict>
+</array>
+</plist>
